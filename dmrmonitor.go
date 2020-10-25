@@ -9,7 +9,7 @@ import (
 )
 
 // IpscDmrURL defines the dmr monitor url.
-const IpscDmrURL = "http://ipsc.dmr-dl.net/ipsc/_monitor.html"
+const IpscDmrURL = "http://89.185.97.34/ipsc/_monitor.html"
 
 // DmrEntry represents a dmr log entry.
 type DmrEntry struct {
